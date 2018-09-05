@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/neroshan12/package-test/issues"
   },
-  "homepage": "https://github.com/neroshan12/package-test#readme"
+  "homepage": "https://github.com/neroshan12/package-test#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
 }
